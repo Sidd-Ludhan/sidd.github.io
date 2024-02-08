@@ -13,14 +13,14 @@ Applying this principle to factory production proved relatively simple: For each
 ## Kanban Board History: From the Factory Floor to the Whiteboard
 In 2010, Microsoft engineer David J. Anderson published Kanban: Successful Evolutionary Change for Your Technology Business, which built on the work of Ohno and others to apply the principles of Kanban to software development. Central to this framework was the use of the Kanban board: This visual representation of a task’s journey through the production process reenvisioned the manufacturing model for software development. Instead of attaching the card to a physical object, the card is moved between one of several columns representing the task’s progress.
 Anderson also laid out (and later expanded) core practices for Kanban:
-- Visualize the flow of work. This is where the Kanban board is used in practice; it works from the premise that a visible workflow is more manageable and more easily tracked among users.
-- Limit work in progress (WIP). By limiting the number of tasks a team or individual can handle at once, Kanban seeks to balance workloads and prevent burnout.
-- Manage flow. Kanban enables tasks to move through each stage in the workflow with speed and efficiency.
-- Make policies explicit. Kanban empowers teams with transparency; it helps individuals and teams understand how, why, and when work is done.
-- Implement feedback loops. A Kanban team makes regular process and policy adjustments based on the results of review sessions.
-- Improve collaboratively, evolve experimentally. The combined effects of increased transparency from a visualized workflow and the regular self-assessment of feedback loops create an environment in which teams work together to improve performance.
+- **Visualize the flow of work.** This is where the Kanban board is used in practice; it works from the premise that a visible workflow is more manageable and more easily tracked among users.
+- **Limit work in progress (WIP).** By limiting the number of tasks a team or individual can handle at once, Kanban seeks to balance workloads and prevent burnout.
+- **Manage flow.** Kanban enables tasks to move through each stage in the workflow with speed and efficiency.
+- **Make policies explicit.** Kanban empowers teams with transparency; it helps individuals and teams understand how, why, and when work is done.
+- **Implement feedback loops.** A Kanban team makes regular process and policy adjustments based on the results of review sessions.
+- **Improve collaboratively, evolve experimentally.** The combined effects of increased transparency from a visualized workflow and the regular self-assessment of feedback loops create an environment in which teams work together to improve performance.
 These practices form the basis for adaptive capability; together, they create a system in which anyone on the team can see and understand the workflow, assess what’s working and what isn’t, and adjust priorities accordingly.
-* Kanban Remote Teams in the Age of Digital Transformation
+# Kanban Remote Teams in the Age of Digital Transformation
 In the era of remote work, Kanban has evolved again from physical cards to project management software, such as Kanbanize, Jira, SwiftKanban, Azure DevOps, and Trello. A digital board provides distributed teams with a collaborative space in which to manage tasks, track activity, and maintain priorities from any geographical location. And WIP limits allow teams to manage their time and tasks more efficiently, placing the human touch at the center of productivity.
 Jidoka, or “automation with human intelligence,” was a core concept of TPS and Lean manufacturing; it refers to effectively stopping work when a problem first emerges, so that processes can immediately be improved. While automation is valued, human intervention and innovation remain key. Thus, Kanban’s emphasis on feedback and improvement is especially valuable in companies that are new to remote culture and still working to solidify effective remote work or hybrid policies.
 ![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-b6fffdaaebe76e894bfbdf02bcf2faa3.png)
