@@ -18,7 +18,7 @@ Kanban history has its origins in the Toyota Production System (TPS) invented by
 
 Applying this principle to factory production proved relatively simple: For each new car, a card containing instructions and supply information would be attached to the product during assembly, and move with it throughout the production process. Once the car was sold, the card would be returned to the start of the chain. When a predetermined number of cards were waiting to be reassigned to a product, this would signal the need for new cars to enter production, triggering an order of materials from the warehouse. The cards, named kanbans after the Japanese word for signboard, provided a visual aid to track a task from start to finish. By 1963, Kanban was in use at all Toyota plants. The manufacturing industry at large would take notice of the method and decades later, these principles would be applied to software development.
 
-![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-3b688b6aa694de02b8688974d0f18049.png)
+![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-3b688b6aa694de02b8688974d0f18049.png) 
 
 ## Kanban Board History: From the Factory Floor to the Whiteboard
 
@@ -45,7 +45,7 @@ In the era of remote work, Kanban has evolved again from physical cards to proje
 
 Jidoka, or “automation with human intelligence,” was a core concept of TPS and Lean manufacturing; it refers to effectively stopping work when a problem first emerges, so that processes can immediately be improved. While automation is valued, human intervention and innovation remain key. Thus, Kanban’s emphasis on feedback and improvement is especially valuable in companies that are new to remote culture and still working to solidify effective remote work or hybrid policies.
 
-![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-b6fffdaaebe76e894bfbdf02bcf2faa3.png)
+![alt text](https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fpublic-files%2FUntitled-b6fffdaaebe76e894bfbdf02bcf2faa3.png) "Sample Jira Kanban Board (Credit: Jira)"
 
 Kanban has also been adapted beyond project work to assist in achieving organizational agility as remote teams and companies begin to scale. Recognizing the role Kanban could play in enterprisewide operations, Anderson and co-author Teodora Bozheva released the Kanban Maturity Model in 2018. The model is designed to enable companies to gauge organizational health as they scale and is part adoption roadmap, part best practices guidelines. It lays out seven maturity levels to assess an organization’s ability to meet challenges such as customer satisfaction, workforce cohesion, and resilience in the face of unexpected market conditions. Other scaled Agile frameworks and toolkits, such as SAFe and Disciplined Agile, already have methods of their own for integrating Kanban at an enterprise level.
 
